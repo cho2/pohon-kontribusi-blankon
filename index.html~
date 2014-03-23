@@ -125,9 +125,6 @@
         <li target="https://google.com" data-choice-id="superman">Menejer Rilis
           <div class="extra" data-l10n-id="superman-extra"></div>
         </li>
-        <li next-group="koordinator">Koordinator Tim
-          <div class="extra" data-l10n-id="koordinator-extra"></div>
-        </li>
       </ul>
     </div>
 
